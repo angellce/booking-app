@@ -2,9 +2,8 @@
 
 A small scheduling app: a single host publishes appointment slots, and visitors book one with their name and email, with no accounts. A booked slot disappears from the available list, and the backend guarantees a slot can never be booked twice, even when requests arrive at the same moment.
 
-- **Live app:** _[link – to be added]_
-- **Walkthrough video:** _[link – to be added]_
-- **Author:** _[your name]_
+- **Live app:** https://booking-app-gold-gamma.vercel.app
+- **Author:** Angela Cvetkovska
 
 ## Features
 
